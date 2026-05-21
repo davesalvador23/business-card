@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
   box-sizing: border-box;
 }
 
@@ -15,36 +15,36 @@ body {
 }
 
 .wrap {
-  padding: 20px;
+  padding: 25px;
 }
 
 .card {
   background: #111827;
-  border-radius: 20px;
-  padding: 30px;
-  width: 350px;
+  border-radius: 25px;
+  padding: 35px;
+  width: 300px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.4);
   text-align: center;
 }
 
 .avatar {
   width: 120px;
-  margin: 0 auto 20px;
+  margin: 0 auto 25px;
 }
 
 .info h1 {
-  font-size: 28px;
-  margin-bottom: 10px;
+  font-size: 30px;
+  margin-bottom: 15px;
 }
 
 .role {
   color: #60a5fa;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .company {
   color: #9ca3af;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .contact {
